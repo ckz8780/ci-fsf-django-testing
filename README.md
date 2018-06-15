@@ -4,6 +4,6 @@ This is a clone of the django_todo project, but extended to implement testing. I
 
 Relevant tests are in: 
 
-- test_forms.py
-- test_views.py
-- test_models.py
+- /todo/test_forms.py
+- /todo/test_views.py
+- /todo/test_models.py
