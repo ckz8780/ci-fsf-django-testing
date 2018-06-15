@@ -27,8 +27,8 @@ SECRET_KEY = 'p%=7+w281r(7v$eqjt(08$_2s!7v1ql_n6l0^ya!uck0c(n)v1'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'django-todo-ckz8780.c9users.io',
-    'django-testing-ckz8780.c9users.io'
+    'django-testing-ckz8780.c9users.io',
+    'ci-fsf-django-todo.herokuapp.com'
 ]
 
 
