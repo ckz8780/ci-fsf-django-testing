@@ -1,6 +1,6 @@
 # Welcome!
 
-This is a clone of the django_todo project, but has been extended to implement testing. It's part of the Full Stack Frameworks with Django module for CodeInstitute.
+This is a clone of the [django_todo project](https://github.com/ckz8780/ci-fsf-django-todo), but has been extended to implement testing. It's part of the Full Stack Frameworks with Django module for CodeInstitute.
 
 Relevant tests are in: 
 
